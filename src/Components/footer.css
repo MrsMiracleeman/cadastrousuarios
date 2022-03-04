@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 5px;
+}
+.footer span{
+    font-size: 0.8em;
+
+}
